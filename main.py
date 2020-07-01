@@ -1,5 +1,5 @@
 import requests #all this module are required.
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup  #all this module are required.
 
 country = input(
     "Country Name : ")
